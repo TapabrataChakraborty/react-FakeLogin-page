@@ -25,3 +25,8 @@ forms, useState, conditional rendering and CSS glassmorphism.
 
 npm install
 npm run dev
+
+#deployed
+
+project : react-fake-login-page.vercel.app
+vercel : https://vercel.com/tapabrata1/react-fake-login-page
